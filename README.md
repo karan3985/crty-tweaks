@@ -27,10 +27,10 @@
 
 ## 🚀 Getting Started
 
+🔽 İndir:
+📦 embedded/programs ([MEGA Link](https://mega.nz/folder/NZIRCBxD#7qfYDa7W5yBnG_F2wLKcBg))
+
 ### 1. Install Requirements
 
 ```bash
 pip install -r requirements.txt
-
-🔽 İndir:
-📦 embedded/programs (MEGA Link)
