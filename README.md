@@ -2,7 +2,7 @@
 
 **CRTY Tweaks** is a free, modern Windows tool installer and optimizer interface. Built with Python, Flask, and PyWebView. All tools are embedded and one-click installable.
 
-![UI Screenshot](h[ttps://your-screenshot-url](https://i.hizliresim.com/hxrtnmh.png))
+![UI Screenshot](https://i.hizliresim.com/hxrtnmh.png)
 
 ## ✨ Features
 
