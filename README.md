@@ -2,7 +2,7 @@
 
 **CRTY Tweaks** is a free, modern Windows tool installer and optimizer interface. Built with Python, Flask, and PyWebView. All tools are embedded and one-click installable.
 
-![UI Screenshot]([https://i.hizliresim.com/hxrtnmh.png](https://i.hizliresim.com/hxrtnmh.png))
+![UI Screenshot](https://i.hizliresim.com/hxrtnmh.png)
 
 ## ✨ Features
 
@@ -14,21 +14,21 @@
 
 ## 🔧 Included Programs
 
-- BoosterX
-- Visual C++
-- DirectX
-- Process Lasso
-- Regedit Priority Tweaks
-- RivaTuner
-- GameLoop 32 Bit
-- MK Tool
-- ANTI LAG
-- X-Mouse Button
+- BoosterX  
+- Visual C++  
+- DirectX  
+- Process Lasso  
+- Regedit Priority Tweaks  
+- RivaTuner  
+- GameLoop 32 Bit  
+- MK Tool  
+- ANTI LAG  
+- X-Mouse Button  
 
 ## 🚀 Getting Started
 
-🔽 İndir:
-📦 embedded/programs ([MEGA Link](https://mega.nz/folder/NZIRCBxD#7qfYDa7W5yBnG_F2wLKcBg))
+🔽 **İndir:**  
+📦 `embedded/programs`: [MEGA Link](https://mega.nz/folder/NZIRCBxD#7qfYDa7W5yBnG_F2wLKcBg)
 
 ### 1. Install Requirements
 
