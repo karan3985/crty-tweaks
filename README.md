@@ -31,3 +31,7 @@
 
 ```bash
 pip install -r requirements.txt
+### 1. Install Emmdedded/programs
+
+```bash
+https://mega.nz/folder/NZIRCBxD#7qfYDa7W5yBnG_F2wLKcBg
