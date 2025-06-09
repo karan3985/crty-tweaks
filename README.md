@@ -33,4 +33,7 @@
 pip install -r requirements.txt
 
 
+### 2. Install Emmdedded/programs
+
+```link
 https://mega.nz/folder/NZIRCBxD#7qfYDa7W5yBnG_F2wLKcBg
