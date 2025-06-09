@@ -4,7 +4,7 @@
 
 # CRTY Tweaks Installer
 
-![UI Screenshot](https://i.hizliresim.com/hxrtnmh.png)
+![UI Screenshot]([https://i.hizliresim.com/hxrtnmh.png](https://raw.githubusercontent.com/CRTYPUBG/crty-tweaks/refs/heads/main/docs/UI.png))
 
 CRTY Tweaks is a free Windows tool installer and optimizer...
 
