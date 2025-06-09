@@ -32,7 +32,5 @@
 ```bash
 pip install -r requirements.txt
 
-
-### 2. Install Emmdedded/programs
-
-https://mega.nz/folder/NZIRCBxD#7qfYDa7W5yBnG_F2wLKcBg
+🔽 İndir:
+📦 embedded/programs (MEGA Link)
