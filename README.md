@@ -1,2 +1,33 @@
-# crty-tweaks
-⚡ CRTX Tweaks — Free Windows optimizer &amp; game booster with embedded tools (Visual C++, DirectX, GameLoop, etc.)
+# 🛠️ CRTY Tweaks Installer
+
+**CRTY Tweaks** is a free, modern Windows tool installer and optimizer interface. Built with Python, Flask, and PyWebView. All tools are embedded and one-click installable.
+
+![UI Screenshot](https://your-screenshot-url)
+
+## ✨ Features
+
+- 📦 Includes common gaming dependencies (DirectX, Visual C++, GameLoop, etc.)
+- ⚡ One-click silent installation
+- 🖥️ Modern frameless GUI
+- 🧠 Smart resource path handling (PyInstaller support)
+- 🔁 Auto-update checker (GitHub)
+
+## 🔧 Included Programs
+
+- BoosterX
+- Visual C++
+- DirectX
+- Process Lasso
+- Regedit Priority Tweaks
+- RivaTuner
+- GameLoop 32 Bit
+- MK Tool
+- ANTI LAG
+- X-Mouse Button
+
+## 🚀 Getting Started
+
+### 1. Install Requirements
+
+```bash
+pip install -r requirements.txt
